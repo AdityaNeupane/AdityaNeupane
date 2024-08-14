@@ -9,7 +9,6 @@
 
 <p align="left"> <a href="https://twitter.com/adityaneupane" target="blank"><img src="https://img.shields.io/twitter/follow/adityaneupane?logo=twitter&style=for-the-badge" alt="adityaneupane" /></a> </p>
 
-- 🔭 I’m currently working on **Aakar**
 
 - 🌱 I’m currently learning **React**
 
